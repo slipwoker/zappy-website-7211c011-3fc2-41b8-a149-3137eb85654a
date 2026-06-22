@@ -7,85 +7,85 @@
 ## Pages
 
 ### בית
-https://fitbox-7211c011.zappy5.app
+https://example.com
 פלטפורמת כושר ותזונה מקצועית לצעירים מתחת לגיל 14. תוכניות אימון מובנות ותפריטים מותאמים אישית לפי משקל ומטרה. הורד עכשיו והתחיל לבנות הרגלים בריאים שיישארו לכל החיים.
 
 ### סביבות אימון
-https://fitbox-7211c011.zappy5.app/training-environments
+https://example.com/training-environments
 אימונים מותאמים לבית, לפארק הכושר או לחדר הכושר. כל סביבה מציעה תוכנית ייחודית שתדחוף אותך קדימה. מצא את המסלול המושלם עבורך והתחיל לזוז עוד היום.
 
 ### תוכניות תזונה
-https://fitbox-7211c011.zappy5.app/nutrition-plans
+https://example.com/nutrition-plans
 תוכניות תזונה מפורטות לפי טווחי משקל ומטרות כושר: עלייה במסת שריר או חיטוב. תזונה חכמה שתדליק את האימונים שלך. הצטרף עכשיו וקח שליטה על הצלחת שלך.
 
 ### אמון ובטיחות
-https://fitbox-7211c011.zappy5.app/trust-safety
+https://example.com/trust-safety
 אנחנו שמים את הבטיחות והאמינות בראש סדר העדיפויות. תוכניות מבוקרות, מותאמות גיל, ומגובות בידע מקצועי. גלה איך אנחנו מגנים על המתאמנים הצעירים שלנו וסמוך עלינו שתוביל אותם נכון.
 
 ### צור קשר
-https://fitbox-7211c011.zappy5.app/contact
+https://example.com/contact
 יש שאלה? רוצה להצטרף? מלא את הפרטים ואנחנו נחזור אליך עם כל מה שצריך כדי להתחיל. צור קשר עכשיו ופתח דלת לעולם של כושר ותזונה חכמה.
 
 ### Cart
-https://fitbox-7211c011.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://fitbox-7211c011.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://fitbox-7211c011.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://fitbox-7211c011.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://fitbox-7211c011.zappy5.app/order-success
+https://example.com/order-success
 תודה שנרשמת לקורס
 
 ### תודה על פנייתך | Fitbox תזונה ואימונים בתוכניות מסודרות
-https://fitbox-7211c011.zappy5.app/thank-you
+https://example.com/thank-you
 Fitbox תזונה ואימונים בתוכניות מסודרות - תודה על פנייתך | Fitbox תזונה ואימונים בתוכניות מסודרות
 
 ### Courses
-https://fitbox-7211c011.zappy5.app/courses
+https://example.com/courses
 Browse all available courses.
 
 ### Course Category
-https://fitbox-7211c011.zappy5.app/category/:slug
+https://example.com/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://fitbox-7211c011.zappy5.app/courses/:slug
+https://example.com/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://fitbox-7211c011.zappy5.app/lesson/:lessonId
+https://example.com/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://fitbox-7211c011.zappy5.app/my-learning
+https://example.com/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://fitbox-7211c011.zappy5.app/certificate/:code
+https://example.com/certificate/:code
 Verify a course completion certificate.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fitbox-7211c011.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fitbox-7211c011.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fitbox-7211c011.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -113,8 +113,8 @@ Fitness & Nutrition
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fitbox-7211c011.zappy5.app/sitemap.xml
-- Robots: https://fitbox-7211c011.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fitbox-7211c011.zappy5.app/llms-full.txt
-- Products (JSON): https://fitbox-7211c011.zappy5.app/products.json
-- Products (Google Merchant RSS): https://fitbox-7211c011.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

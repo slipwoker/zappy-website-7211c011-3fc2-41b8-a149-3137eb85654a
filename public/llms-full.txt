@@ -2,13 +2,13 @@
 
 A fitness and nutrition website targeting children under 14, with a mature and professional design aesthetic — not childish or gimmicky, but serious enough to earn trust and drive downloads or sign-ups. The platform offers structured workout programs categorized by training environment (home, outdoor fitness park, gym) and detailed nutrition plans segmented by weight range (20-30kg, 30-40kg, 40-50kg) and fitness goal (muscle gain / body toning). The brand aims to be credible, clean, and compelling to both kids and their parents.
 
-Source: https://fitbox-7211c011.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את הכוח שבך עם תוכניות כושר ותזונה — Fitbox תזונה ואימונים בתוכניות מסודרות
 
-URL: https://fitbox-7211c011.zappy5.app
+URL: https://example.com
 Description: פלטפורמת כושר ותזונה מקצועית לצעירים מתחת לגיל 14. תוכניות אימון מובנות ותפריטים מותאמים אישית לפי משקל ומטרה. הורד עכשיו והתחיל לבנות הרגלים בריאים שיישארו לכל החיים.
 
 גלה את הכוח שבך עם תוכניות כושר ותזונה — Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -588,7 +588,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## בחר את מגרש האימונים שלך והתאמן בכל מקום — Fitbox תזונה ואימונים בתוכניות מסודרות
 
-URL: https://fitbox-7211c011.zappy5.app/training-environments
+URL: https://example.com/training-environments
 Description: אימונים מותאמים לבית, לפארק הכושר או לחדר הכושר. כל סביבה מציעה תוכנית ייחודית שתדחוף אותך קדימה. מצא את המסלול המושלם עבורך והתחיל לזוז עוד היום.
 
 בחר את מגרש האימונים שלך והתאמן בכל מקום — Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -1078,7 +1078,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## תפריט תזונה שיבנה לך שרירים ויחטב את הגוף — Fitbox תזונה ואימונים בתוכניות מסודרות
 
-URL: https://fitbox-7211c011.zappy5.app/nutrition-plans
+URL: https://example.com/nutrition-plans
 Description: תוכניות תזונה מפורטות לפי טווחי משקל ומטרות כושר: עלייה במסת שריר או חיטוב. תזונה חכמה שתדליק את האימונים שלך. הצטרף עכשיו וקח שליטה על הצלחת שלך.
 
 תפריט תזונה שיבנה לך שרירים ויחטב את הגוף — Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -1706,7 +1706,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## אימון בטוח ומקצועי שאפשר לסמוך עליו בעיניים עצומות — Fitbox תזונה ואימונים בתוכניות מסודרות
 
-URL: https://fitbox-7211c011.zappy5.app/trust-safety
+URL: https://example.com/trust-safety
 Description: אנחנו שמים את הבטיחות והאמינות בראש סדר העדיפויות. תוכניות מבוקרות, מותאמות גיל, ומגובות בידע מקצועי. גלה איך אנחנו מגנים על המתאמנים הצעירים שלנו וסמוך עלינו שתוביל אותם נכון.
 
 אימון בטוח ומקצועי שאפשר לסמוך עליו בעיניים עצומות — Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -2175,7 +2175,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## דבר איתנו והתחל את המסע שלך עוד היום — Fitbox תזונה ואימונים בתוכניות מסודרות
 
-URL: https://fitbox-7211c011.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה? רוצה להצטרף? מלא את הפרטים ואנחנו נחזור אליך עם כל מה שצריך כדי להתחיל. צור קשר עכשיו ופתח דלת לעולם של כושר ותזונה חכמה.
 
 דבר איתנו והתחל את המסע שלך עוד היום — Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -2626,7 +2626,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## עגלת קניות
 
-URL: https://fitbox-7211c011.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -2865,7 +2865,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## תשלום
 
-URL: https://fitbox-7211c011.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -3290,7 +3290,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## התחברות
 
-URL: https://fitbox-7211c011.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -3536,7 +3536,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## החשבון שלי
 
-URL: https://fitbox-7211c011.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -3937,7 +3937,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## ההזמנה התקבלה!
 
-URL: https://fitbox-7211c011.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה שנרשמת לקורס
 
 ההזמנה התקבלה! - Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -4200,7 +4200,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## מדיניות החזרות
 
-URL: https://fitbox-7211c011.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -4492,7 +4492,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## מדיניות פרטיות
 
-URL: https://fitbox-7211c011.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4775,7 +4775,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## הצהרת נגישות
 
-URL: https://fitbox-7211c011.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5067,7 +5067,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## תנאי שימוש
 
-URL: https://fitbox-7211c011.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5378,7 +5378,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## תודה על פנייתך | Fitbox תזונה ואימונים בתוכניות מסודרות
 
-URL: https://fitbox-7211c011.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Fitbox תזונה ואימונים בתוכניות מסודרות - תודה על פנייתך | Fitbox תזונה ואימונים בתוכניות מסודרות
 
 תודה על פנייתך | Fitbox תזונה ואימונים בתוכניות מסודרות
@@ -5625,7 +5625,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## Courses
 
-URL: https://fitbox-7211c011.zappy5.app/courses
+URL: https://example.com/courses
 Description: Browse all available courses.
 
 - קורסים כל הקורסים
@@ -5768,7 +5768,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## Courses
 
-URL: https://fitbox-7211c011.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: Browse courses in this category.
 
 - קורסים כל הקורסים
@@ -5914,7 +5914,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## Course
 
-URL: https://fitbox-7211c011.zappy5.app/courses/:slug
+URL: https://example.com/courses/:slug
 Description: Course details and curriculum.
 
 - קורסים כל הקורסים
@@ -6077,7 +6077,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## Lesson
 
-URL: https://fitbox-7211c011.zappy5.app/lesson/:lessonId
+URL: https://example.com/lesson/:lessonId
 Description: Lesson player.
 
 - קורסים כל הקורסים
@@ -6231,7 +6231,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## My Learning
 
-URL: https://fitbox-7211c011.zappy5.app/my-learning
+URL: https://example.com/my-learning
 Description: Your enrolled courses and progress.
 
 - קורסים כל הקורסים
@@ -6377,7 +6377,7 @@ Fitbox תזונה ואימונים בתוכניות מסודרות – הדרך 
 
 ## Certificate Verification
 
-URL: https://fitbox-7211c011.zappy5.app/certificate/:code
+URL: https://example.com/certificate/:code
 Description: Verify a course completion certificate.
 
 - קורסים כל הקורסים
