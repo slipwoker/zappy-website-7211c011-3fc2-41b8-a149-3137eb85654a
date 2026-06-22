@@ -1,0 +1,120 @@
+# Fitbox תזונה ואימונים בתוכניות מסודרות — Generative Engine Optimization Map
+
+> A fitness and nutrition website targeting children under 14, with a mature and professional design aesthetic — not childish or gimmicky, but serious enough to earn trust and drive downloads or sign-ups. The platform offers structured workout programs categorized by training environment (home, outdoor fitness park, gym) and detailed nutrition plans segmented by weight range (20-30kg, 30-40kg, 40-50kg) and fitness goal (muscle gain / body toning). The brand aims to be credible, clean, and compelling to both kids and their parents.
+
+---
+
+## Pages
+
+### בית
+https://fitbox-7211c011.zappy5.app
+פלטפורמת כושר ותזונה מקצועית לצעירים מתחת לגיל 14. תוכניות אימון מובנות ותפריטים מותאמים אישית לפי משקל ומטרה. הורד עכשיו והתחיל לבנות הרגלים בריאים שיישארו לכל החיים.
+
+### סביבות אימון
+https://fitbox-7211c011.zappy5.app/training-environments
+אימונים מותאמים לבית, לפארק הכושר או לחדר הכושר. כל סביבה מציעה תוכנית ייחודית שתדחוף אותך קדימה. מצא את המסלול המושלם עבורך והתחיל לזוז עוד היום.
+
+### תוכניות תזונה
+https://fitbox-7211c011.zappy5.app/nutrition-plans
+תוכניות תזונה מפורטות לפי טווחי משקל ומטרות כושר: עלייה במסת שריר או חיטוב. תזונה חכמה שתדליק את האימונים שלך. הצטרף עכשיו וקח שליטה על הצלחת שלך.
+
+### אמון ובטיחות
+https://fitbox-7211c011.zappy5.app/trust-safety
+אנחנו שמים את הבטיחות והאמינות בראש סדר העדיפויות. תוכניות מבוקרות, מותאמות גיל, ומגובות בידע מקצועי. גלה איך אנחנו מגנים על המתאמנים הצעירים שלנו וסמוך עלינו שתוביל אותם נכון.
+
+### צור קשר
+https://fitbox-7211c011.zappy5.app/contact
+יש שאלה? רוצה להצטרף? מלא את הפרטים ואנחנו נחזור אליך עם כל מה שצריך כדי להתחיל. צור קשר עכשיו ופתח דלת לעולם של כושר ותזונה חכמה.
+
+### Cart
+https://fitbox-7211c011.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://fitbox-7211c011.zappy5.app/checkout
+תשלום
+
+### Login
+https://fitbox-7211c011.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://fitbox-7211c011.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://fitbox-7211c011.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### תודה על פנייתך | Fitbox תזונה ואימונים בתוכניות מסודרות
+https://fitbox-7211c011.zappy5.app/thank-you
+Fitbox תזונה ואימונים בתוכניות מסודרות - תודה על פנייתך | Fitbox תזונה ואימונים בתוכניות מסודרות
+
+### Courses
+https://fitbox-7211c011.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://fitbox-7211c011.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://fitbox-7211c011.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://fitbox-7211c011.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://fitbox-7211c011.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://fitbox-7211c011.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://fitbox-7211c011.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://fitbox-7211c011.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://fitbox-7211c011.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Fitbox תזונה ואימונים בתוכניות מסודרות
+A fitness and nutrition website targeting children under 14, with a mature and professional design aesthetic — not childish or gimmicky, but serious enough to earn trust and drive downloads or sign-ups. The platform offers structured workout programs categorized by training environment (home, outdoor fitness park, gym) and detailed nutrition plans segmented by weight range (20-30kg, 30-40kg, 40-50kg) and fitness goal (muscle gain / body toning). The brand aims to be credible, clean, and compelling to both kids and their parents.
+
+## Target Audience
+- ילדים מתחת לגיל 14 והוריהם
+- הורים מודעים לבריאות
+- בתי ספר ומרכזים חינוכיים
+
+## Industry
+Fitness & Nutrition
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://fitbox-7211c011.zappy5.app/sitemap.xml
+- Robots: https://fitbox-7211c011.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://fitbox-7211c011.zappy5.app/llms-full.txt
+- Products (JSON): https://fitbox-7211c011.zappy5.app/products.json
+- Products (Google Merchant RSS): https://fitbox-7211c011.zappy5.app/product-feed.xml
